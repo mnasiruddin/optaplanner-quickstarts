@@ -1,0 +1,13 @@
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/domain/TimeTable.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/rest/RoomResource.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/solver/TimeTableConstraintProvider.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/domain/Room.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/persistence/TimeslotRepository.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/domain/Timeslot.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/domain/Lesson.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/persistence/RoomRepository.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/bootstrap/DemoDataGenerator.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/persistence/LessonRepository.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/rest/TimeTableResource.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/rest/LessonResource.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-school-timetabling/src/main/java/org/acme/schooltimetabling/rest/TimeslotResource.java

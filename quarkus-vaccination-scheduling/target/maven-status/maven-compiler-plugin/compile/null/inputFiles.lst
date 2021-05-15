@@ -1,0 +1,10 @@
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/persistence/VaccinationScheduleRepository.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/domain/VaccinationSchedule.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/domain/Person.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/domain/Injection.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/solver/VaccinationScheduleConstraintProvider.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/bootstrap/DemoDataGenerator.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/domain/VaccinationCenter.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/domain/VaccineType.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/domain/Location.java
+/Users/nasiruddinm/personaldev-toplevel/projects/personaldev-repo/optaplanner-quickstarts/quarkus-vaccination-scheduling/src/main/java/org/acme/vaccinationscheduler/rest/VaccinationScheduleSolverResource.java

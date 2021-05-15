@@ -1,0 +1,10 @@
+org/acme/vaccinationscheduler/persistence/VaccinationScheduleRepository.class
+org/acme/vaccinationscheduler/domain/Person.class
+org/acme/vaccinationscheduler/domain/VaccinationSchedule.class
+org/acme/vaccinationscheduler/solver/VaccinationScheduleConstraintProvider.class
+org/acme/vaccinationscheduler/rest/VaccinationScheduleSolverResource.class
+org/acme/vaccinationscheduler/bootstrap/DemoDataGenerator.class
+org/acme/vaccinationscheduler/domain/VaccinationCenter.class
+org/acme/vaccinationscheduler/domain/Location.class
+org/acme/vaccinationscheduler/domain/Injection.class
+org/acme/vaccinationscheduler/domain/VaccineType.class
